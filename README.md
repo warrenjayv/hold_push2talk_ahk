@@ -1,7 +1,7 @@
 # hold push to talk.ahk
 • hold the god damn push to talk to button\
-took me 5 hours to develop lol.\
-i created this so I can play my guitar at end-game of project reality or squads
+  ~ took me 5 hours to develop lol.\
+  ~ i created this so I can play my guitar at end-game of project reality or squads
 
 # prerequisites
 • autohotkey
