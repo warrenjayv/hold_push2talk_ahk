@@ -7,7 +7,7 @@
 • autohotkey
 
 # instructions
-1. change your push to talk to `v` 
+1. change your push to talk to `v`\
   ~ change the key in the script if you want something other than `v`
 2. press `ctrl+v` to hold the push to talk to key
 3. press `ESC` to key to staph 
